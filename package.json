@@ -1,0 +1,19 @@
+{
+ "name": "joint",
+ "description": "Joint JS",
+ "version": "0.4",
+ "homepage": "http://www.jointjs.com/",
+ "dojoBuild": "profile.build.js",
+ "author": {
+   "name": "David Durman",
+   "email": "daviddurman@seznam.cz"
+ },
+ "scripts": {
+
+ },
+ "devDependencies": {
+ },
+ "licenses": [
+   
+ ]
+}
